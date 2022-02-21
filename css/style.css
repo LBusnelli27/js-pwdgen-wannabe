@@ -21,11 +21,18 @@ p {
     font-size: 1.1rem;
 }
 
-.my-data-container {
-    margin: 1rem;
+span {
+    color: red;
+    font-size: 1.3rem;
+    padding-left: 1rem;
 }
 
-.my-pass-p {
-    margin: 2rem;
+
+.my-data-container {
+    margin: .7rem;
+}
+
+#secure-pass {
     color: blueviolet;
+    font-size: 1.5rem;
 }
